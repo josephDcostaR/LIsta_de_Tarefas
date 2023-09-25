@@ -11,4 +11,4 @@ Controller fica responsável por implementar a lógica do controller.
 
 View fica responsável por criar uma interface a ser usado pelo usuário.
 
-A main quando executada gera o programa no terminal do usuário
+A main quando executada gera o programa no terminal do usuário.
